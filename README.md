@@ -1,1 +1,3 @@
-# land_modeling_southwest
+# README
+Data and scripts supporting Elkouk et al. "Improving land model hydrologic performance in managed regions through multi-objective parameter optimization and reservoir representation", under-review for publication in JHM
+A detailed README coming soon ...
